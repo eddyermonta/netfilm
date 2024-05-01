@@ -110,12 +110,3 @@ mvn spring-boot:run
 ```
 
 The application will be accessible on `http://localhost:8080`.
-
-## Contributors
-
-- [Your Name]
-- [Other Contributor Names]
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
